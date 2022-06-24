@@ -1,6 +1,6 @@
 # ninjaid
 
-A new Flutter project.
+A new Flutter project - an ID card of a Ninja student with a function that is able to increase the level or class of each student.
 
 ## Getting Started
 
